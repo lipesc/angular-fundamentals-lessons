@@ -16,15 +16,16 @@
 .membership-info {
   display: flex;
   justify-content: space-between;
+  padding: 2px 2px;
 }
 .card-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   font-family: "Roboto", sans-serif;
 }
 .card-number {
   font-family: "Roboto Mono", monospace;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .card {
   width: 400px;
